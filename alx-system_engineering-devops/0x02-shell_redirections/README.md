@@ -1,1 +1,1 @@
-Solving shell I/O alx tasks
+Let's work on Shell I/O which gives a taste of some linux commands 
